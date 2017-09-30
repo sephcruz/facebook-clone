@@ -1,0 +1,60 @@
+#header{
+	margin-top: -.5%;
+    list-style: none;
+	padding: 2.3%;
+	overflow: hidden;
+	background-color:#3B5998;
+	width: 100%;
+	margin-left: -.6%;
+}
+
+.fb{
+	font-family: tahoma;
+	font-size: 40px;
+	color: white;
+	margin-left: 10%;
+	font-weight: bold;
+	margin-top: -.5%;
+}
+
+.email{
+	margin-top: -3.5%;
+	margin-left: 55%;
+	color: white;
+	font-size: 12px;
+	font-family: tahoma;
+}
+
+.pass{
+	margin-top: -2.65%;
+	margin-left: 69%;
+	color: white;
+	font-size: 12px;
+	font-family: tahoma;
+}
+
+.login{
+	background-color: #3B5998;
+	margin-left: 83%;
+	margin-top: -2.6%;
+}
+
+.connect{
+	font-size: 28px;
+	font-family: tahoma;
+	margin-left: 12%;
+	margin-top: 5%;
+}
+
+.register{
+	margin-left: 55%;
+	margin-top: -8%;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.free{
+	margin-left: 55%;
+	font-size:20px;
+	
+}
